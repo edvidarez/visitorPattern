@@ -1,0 +1,7 @@
+com\myCompany\app\Tabaco.class
+com\myCompany\app\Visitor.class
+com\myCompany\app\Alcohol.class
+com\myCompany\app\TaxVisitor.class
+com\myCompany\app\Visitable.class
+com\myCompany\app\TaxHolidayVisitor.class
+com\myCompany\app\Comida.class
